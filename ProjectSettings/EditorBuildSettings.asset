@@ -7,7 +7,7 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/Main.unity
-    guid: fd6309d0aaf433542bf89cfa54e556bc
+    guid: 6bcc3c6c2c7e51049a5d971cb2cedfdf
   m_configObjects:
     com.htc.upm.wave.xrsdk.xrsettings: {fileID: 11400000, guid: c1764a0ee3aaae244846d5678a07a81a,
       type: 2}
